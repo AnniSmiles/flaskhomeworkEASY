@@ -48,7 +48,7 @@ def calculate():
 
 
 
-    return render_template('index.html',expr=result)
+    return render_template('results.html',expr=result)
 
 
 
